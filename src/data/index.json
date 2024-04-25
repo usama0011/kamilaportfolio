@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "HTML5",
+      "description": "HTML is the foundation of web development, allowing for the creation of structured and semantically meaningful content on the internet. With its simple yet powerful syntax, HTML provides the framework for building websites and applications that are accessible, responsive, and user-friendly."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "CSS",
+      "description": "CSS enhances the presentation of HTML elements, enabling Frontend Developers like Kamila to style and customize the appearance of websites and applications with precision. With CSS, Kamila can control layout, typography, colors, and more, ensuring visually appealing."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "UI/UX design focuses on creating intuitive and visually appealing interfaces that prioritize user experience. Kamila excels in crafting interfaces that are both aesthetically pleasing and easy to navigate, ensuring that users have a seamless and enjoyable interaction."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "JavaScript Development",
+      "description": "JavaScript (JS) is Programming Language adding interactivity and functionality to websites and applications. With JS, she can create dynamic elements, handle user interactions, and fetch data from servers, enhancing the overall user experience and bringing projects"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
